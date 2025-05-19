@@ -198,7 +198,8 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "elysian-summer",
+            "image": "shopify://shop_images/0B6A1232_756c642c-f9f0-4267-bd3c-1b92ee7c0abe.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -212,21 +213,8 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
+            "collection": "new-arrivals",
+            "image": "shopify://shop_images/0B6A1280_7cb2c3d3-a3f0-4d74-93d0-d3b7146b817c.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -240,8 +228,7 @@
       },
       "block_order": [
         "collection-1",
-        "collection-2",
-        "collection-3"
+        "collection-2"
       ],
       "settings": {
         "full_width": true,
@@ -263,7 +250,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "elysian-summer",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -272,7 +259,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "Featured collection",
+        "title": "Featured Products",
         "content": "",
         "link_url": "",
         "link_text": "View all",
@@ -625,6 +612,7 @@
         "1664424486a2b084ab-0",
         "1664424486a2b084ab-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "images_layout": "scattered",
@@ -715,7 +703,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "",
+        "product": "kaaya",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
