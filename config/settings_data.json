@@ -39,7 +39,14 @@
     "favicon": "shopify://shop_images/emric_favicon.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "17867102366772001536": {
+        "type": "shopify://apps/sized-size-charts/blocks/sizechart-appembed/20f2f56d-9b9b-4a65-b814-16722417f65a",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Sound": {
