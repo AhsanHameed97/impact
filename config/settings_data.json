@@ -50,6 +50,11 @@
         "type": "shopify://apps/size-chart/blocks/app-embed/305100b1-3599-492a-a54d-54f196ff1f94",
         "disabled": false,
         "settings": {}
+      },
+      "16963237191767492405": {
+        "type": "shopify://apps/whatsapp-button/blocks/app-embed-block/96d80a63-e860-4262-a001-8b82ac4d00e6",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
