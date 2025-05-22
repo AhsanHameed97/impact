@@ -188,9 +188,9 @@
       "settings": {
         "full_width": true,
         "text": "Wear your elegance!",
-        "text_size": "large",
+        "text_size": "medium",
         "text_style": "fill",
-        "scrolling_mode": "auto",
+        "scrolling_mode": "scroll",
         "scrolling_speed": 5,
         "background": "",
         "background_gradient": "",
