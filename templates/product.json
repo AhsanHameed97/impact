@@ -124,7 +124,7 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "recommendations_count": 6,
+        "recommendations_count": 3,
         "products": [],
         "full_width": true,
         "stack_products": true,
@@ -132,7 +132,7 @@
         "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "You may also like",
+        "title": "Shop the Look",
         "content": "",
         "background": "",
         "background_gradient": "",
