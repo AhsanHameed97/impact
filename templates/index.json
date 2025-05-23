@@ -257,7 +257,16 @@
       "type": "featured-collection",
       "settings": {
         "collection": "elysian-summer",
-        "products": [],
+        "products": [
+          "ayzel",
+          "zeenya",
+          "gulbahar",
+          "zarmina",
+          "kaaya",
+          "zareen",
+          "maiza",
+          "noore"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
@@ -276,6 +285,47 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "1664424230c4756b0e-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "1664424230c4756b0e-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "1664424230c4756b0e-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664424230c4756b0e-0",
+        "1664424230c4756b0e-1",
+        "1664424230c4756b0e-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "impact-text": {
@@ -313,55 +363,16 @@
         "button_text_color": ""
       }
     },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-0",
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "media-grid": {
       "type": "media-grid",
       "blocks": {
         "item-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/4_101f8ed2-b213-4e0f-8006-33f62adf26af.jpg",
             "title": "Promote your products",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://products/zeenya",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -447,7 +458,6 @@
         "item-3",
         "29246d34-c6e0-4373-84f6-b15e57736a00"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "reduce_width": false,
@@ -480,44 +490,64 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "press": {
-      "type": "press",
+    "testimonials_TfUniG": {
+      "type": "testimonials",
       "blocks": {
-        "16644243327ba53d2a-0": {
-          "type": "quote",
+        "testimonial_aFiWTL": {
+          "type": "testimonial",
           "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
         },
-        "16644243327ba53d2a-1": {
-          "type": "quote",
+        "testimonial_eFRwHe": {
+          "type": "testimonial",
           "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
-            "rating": 4
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_V37jEy": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
         }
       },
       "block_order": [
-        "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
+        "testimonial_aFiWTL",
+        "testimonial_eFRwHe",
+        "testimonial_V37jEy"
       ],
+      "name": "Testimonials",
       "settings": {
         "full_width": true,
-        "content_size": "medium",
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
       }
     },
     "hot-spots": {
@@ -709,7 +739,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "zeenya",
+        "product": "zarmina",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -902,11 +932,11 @@
     "scrolling-text",
     "collection-list",
     "featured-collection",
-    "impact-text",
     "image-with-text-overlay",
+    "impact-text",
     "media-grid",
     "before-after-image",
-    "press",
+    "testimonials_TfUniG",
     "hot-spots",
     "multiple-images-with-text",
     "featured-product",
