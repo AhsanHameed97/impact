@@ -74,6 +74,13 @@
             "content": "{{ product.description }}"
           }
         },
+        "collapsible_text_CRQjHp": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Delivery",
+            "content": "<p>Please note delivery times may be extended during peak seasons, high order volumes, or due to stock unavailability. We appreciate your patience and understanding in such cases</p>"
+          }
+        },
         "collapsible_text_gQBiyK": {
           "type": "collapsible_text",
           "settings": {
@@ -93,6 +100,7 @@
         "quantity_selector",
         "buy_buttons",
         "collapsible_text_Wj9zp6",
+        "collapsible_text_CRQjHp",
         "collapsible_text_gQBiyK"
       ],
       "settings": {
