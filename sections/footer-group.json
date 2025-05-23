@@ -92,7 +92,7 @@
           "type": "newsletter",
           "settings": {
             "image": "shopify://shop_images/emric_logo_2.png",
-            "image_width": 150,
+            "image_width": 200,
             "heading_size": "h3",
             "title": "",
             "content": ""
