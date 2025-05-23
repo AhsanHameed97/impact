@@ -88,11 +88,11 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "text_CfN9VQ": {
+        "text": {
           "type": "text",
           "settings": {
-            "title": "",
-            "content": "<p>&lt;img src=\"https://cdn.shopify.com/s/files/1/0635/6775/7396/files/emric_logo_2.png?v=1747695540\" alt=\"Emric Logo\" /&gt;</p>",
+            "title": "About Emric",
+            "content": "<p>For years, we worked quietly, helping other brands bring their eastern wear dreams to life. But somewhere along the way, a quiet voice kept growing louder: \"What if we did it our way?\" That's how Emric was born - not just as a brand. but as a piece of who we are. Built from years of experience, stitched with love, & inspired by the women around us.</p>",
             "enable_follow_on_shop": true
           }
         },
@@ -103,19 +103,20 @@
             "show_menu_title": true
           }
         },
-        "text": {
-          "type": "text",
+        "newsletter_hKNMYe": {
+          "type": "newsletter",
           "settings": {
-            "title": "About Emric",
-            "content": "<p>For years, we worked quietly, helping other brands bring their eastern wear dreams to life. But somewhere along the way, a quiet voice kept growing louder: \"What if we did it our way?\" That's how Emric was born - not just as a brand. but as a piece of who we are. Built from years of experience, stitched with love, & inspired by the women around us.</p>",
-            "enable_follow_on_shop": true
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Sign up to our newsletter",
+            "content": ""
           }
         }
       },
       "block_order": [
-        "text_CfN9VQ",
+        "text",
         "links",
-        "text"
+        "newsletter_hKNMYe"
       ],
       "settings": {
         "show_social_media": true,
