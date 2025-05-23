@@ -88,6 +88,16 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "newsletter_hKNMYe": {
+          "type": "newsletter",
+          "settings": {
+            "image": "shopify://shop_images/emric_logo_2.png",
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "",
+            "content": ""
+          }
+        },
         "text": {
           "type": "text",
           "settings": {
@@ -102,21 +112,12 @@
             "menu": "footer",
             "show_menu_title": true
           }
-        },
-        "newsletter_hKNMYe": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up to our newsletter",
-            "content": ""
-          }
         }
       },
       "block_order": [
+        "newsletter_hKNMYe",
         "text",
-        "links",
-        "newsletter_hKNMYe"
+        "links"
       ],
       "settings": {
         "show_social_media": true,
