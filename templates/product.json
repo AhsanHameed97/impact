@@ -12,10 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -77,10 +73,16 @@
             "title": "Description",
             "content": "{{ product.description }}"
           }
+        },
+        "collapsible_text_gQBiyK": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Please Note",
+            "content": "<p>Actual color may vary slightly from the image shown.</p>"
+          }
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "badges",
         "price",
@@ -90,7 +92,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "collapsible_text_Wj9zp6"
+        "collapsible_text_Wj9zp6",
+        "collapsible_text_gQBiyK"
       ],
       "settings": {
         "full_width": true,

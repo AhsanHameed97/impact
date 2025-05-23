@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "section_vertical_spacing": "medium",
+    "section_vertical_spacing": "small",
     "button_border_radius": 60,
     "input_border_radius": 8,
     "block_border_radius": 24,
@@ -29,10 +29,10 @@
     "product_card_text_color": "#1a1a1a",
     "product_rating_color": "#2a3929",
     "product_primary_badge_background": "#803cee",
-    "heading_font": "ff_tisa_sans_n7",
+    "heading_font": "poppins_n7",
     "heading_font_size": "large",
     "heading_letter_spacing": -2,
-    "text_font": "ff_tisa_sans_n4",
+    "text_font": "poppins_n4",
     "show_page_transition": true,
     "reduce_drawer_animation": true,
     "heading_apparition": "split_fade",
