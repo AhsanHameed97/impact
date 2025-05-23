@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "title": "Fast & Free Shipping",
+            "content": "<p>Fast, free delivery on every order—no strings attached.</p>"
           }
         },
         "customer-support": {
@@ -36,8 +36,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "title": "We're Here for You",
+            "content": "<p>Need help? Our team is just a message away.</p>"
           }
         },
         "discount": {
@@ -49,8 +49,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "title": "Share the Love",
+            "content": "<p>Invite friends, unlock exclusive rewards.</p>"
           }
         },
         "payment": {
@@ -62,8 +62,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "title": "Secure Checkout",
+            "content": "<p>Your data stays safe with encrypted payments.</p>"
           }
         }
       },
@@ -88,13 +88,12 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
+        "text_CfN9VQ": {
+          "type": "text",
           "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
+            "title": "",
+            "content": "<p>&lt;img src=\"https://cdn.shopify.com/s/files/1/0635/6775/7396/files/emric_logo_2.png?v=1747695540\" alt=\"Emric Logo\" /&gt;</p>",
+            "enable_follow_on_shop": true
           }
         },
         "links": {
@@ -107,14 +106,14 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "The Soul of Emric",
-            "content": "<p>Emric blends timeless Eastern heritage with contemporary elegance, creating refined, stylish attire for today’s modern woman. Our designs celebrate tradition with luxurious fabrics, graceful silhouettes, and exquisite detailing made to inspire confidence.</p>",
+            "title": "About Emric",
+            "content": "<p>For years, we worked quietly, helping other brands bring their eastern wear dreams to life. But somewhere along the way, a quiet voice kept growing louder: \"What if we did it our way?\" That's how Emric was born - not just as a brand. but as a piece of who we are. Built from years of experience, stitched with love, & inspired by the women around us.</p>",
             "enable_follow_on_shop": true
           }
         }
       },
       "block_order": [
-        "newsletter",
+        "text_CfN9VQ",
         "links",
         "text"
       ],

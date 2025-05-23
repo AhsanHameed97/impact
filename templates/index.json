@@ -121,10 +121,10 @@
             "collection": "elysian-summer",
             "image": "shopify://shop_images/1_9e7dc207-8d2f-4656-aecb-30a3ec2762e5.jpg",
             "subheading": "",
-            "title": "Zeenia",
+            "title": "2pc Embroidered Collection",
             "url": "shopify://collections/elysian-summer",
             "heading_tag": "h2",
-            "text_position": "place-self-end text-end",
+            "text_position": "place-self-start-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30
