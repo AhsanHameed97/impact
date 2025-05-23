@@ -208,7 +208,7 @@
             "image": "shopify://shop_images/1_9e7dc207-8d2f-4656-aecb-30a3ec2762e5.jpg",
             "subheading": "",
             "title": "",
-            "url": "",
+            "url": "shopify://collections/elysian-summer",
             "heading_tag": "h2",
             "text_position": "place-self-end text-end",
             "text_color": "#ffffff",
@@ -335,7 +335,7 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "subheading": "Unveil elegance in every thread – where tradition meets timeless style.",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -370,14 +370,14 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/4_101f8ed2-b213-4e0f-8006-33f62adf26af.jpg",
-            "title": "Promote your products",
+            "title": "Zeenya",
             "heading_tag": "h4",
             "link_url": "shopify://products/zeenya",
             "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
+            "mobile_text_position": "place-self-end-start text-start",
             "desktop_column_span": 2,
             "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
             "background": "#000000",
             "background_gradient": "",
             "text_color": "#ffffff",
@@ -385,20 +385,21 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 20
           }
         },
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/1_a8db04c4-a428-45c2-807a-41955b2e09d5.jpg",
+            "title": "Gulbahar",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://products/gulbahar",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
             "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
             "background": "#000000",
             "background_gradient": "",
             "text_color": "#ffffff",
@@ -406,20 +407,21 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 20
           }
         },
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/1_ba0283c3-b599-4868-a2f4-195508a8c0f8.jpg",
+            "title": "Maiza",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
             "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "desktop_text_position": "sm:place-self-start sm:text-start",
             "background": "#000000",
             "background_gradient": "",
             "text_color": "#ffffff",
@@ -427,20 +429,21 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 20
           }
         },
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/4.jpg",
+            "title": "Ayzel",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://products/ayzel",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
             "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "desktop_text_position": "sm:place-self-start-end sm:text-end",
             "background": "#000000",
             "background_gradient": "",
             "text_color": "#ffffff",
@@ -448,7 +451,7 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 20
           }
         }
       },
