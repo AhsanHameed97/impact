@@ -34,12 +34,6 @@
             "show_empty": false
           }
         },
-        "liquid_gnTUHw": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "."
-          }
-        },
         "payment_terms": {
           "type": "payment_terms",
           "settings": {}
@@ -100,7 +94,6 @@
         "badges",
         "price",
         "rating",
-        "liquid_gnTUHw",
         "payment_terms",
         "separator",
         "variant_picker",
