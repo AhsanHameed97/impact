@@ -17,9 +17,9 @@
           "settings": {
             "image": "shopify://shop_images/Emric_webbanners_01png.png",
             "mobile_image": "shopify://shop_images/3_06c8ad71-6583-42f3-b373-07f69e968f49.jpg",
-            "content_max_width": 880,
+            "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "subheading": "",
             "title": "",
             "heading_tag": "h0",
