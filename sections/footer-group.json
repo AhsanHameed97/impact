@@ -91,8 +91,8 @@
         "newsletter_hKNMYe": {
           "type": "newsletter",
           "settings": {
-            "image": "shopify://shop_images/emric_logo_2.png",
-            "image_width": 200,
+            "image": "shopify://shop_images/Emriclogo_white.svg",
+            "image_width": 220,
             "heading_size": "h3",
             "title": "",
             "content": ""
