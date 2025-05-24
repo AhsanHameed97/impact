@@ -53,6 +53,35 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
     {{ content_for_header }}
 
     {{- 'theme.css' | asset_url | stylesheet_tag: preload: true -}}
+    <style>
+      @font-face {
+  font-family: 'Gilroy';
+  src: url('{{ "https://cdn.shopify.com/s/files/1/0635/6775/7396/files/Gilroy-Regular.woff?v=1748094308" | asset_url }}') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('{{ "https://cdn.shopify.com/s/files/1/0635/6775/7396/files/Gilroy-Medium.woff?v=1748094308" | asset_url }}') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('{{ "https://cdn.shopify.com/s/files/1/0635/6775/7396/files/Gilroy-Bold.woff?v=1748094308" | asset_url }}') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('{{ "https://cdn.shopify.com/s/files/1/0635/6775/7396/files/Gilroy-Heavy.woff?v=1748094308" | asset_url }}') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
+    </style>
   </head>
 
   <body class="{% if settings.show_page_transition %}page-transition{% endif %} {% if settings.zoom_image_on_hover %}zoom-image--enabled{% endif %}">
