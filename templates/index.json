@@ -24,7 +24,7 @@
             "title": "",
             "heading_tag": "h0",
             "button_text": "",
-            "button_link": "shopify://collections/elysian-summer",
+            "button_link": "shopify://collections/zeenia",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
@@ -46,7 +46,7 @@
             "title": "",
             "heading_tag": "h0",
             "button_text": "",
-            "button_link": "shopify://collections/elysian-summer",
+            "button_link": "shopify://collections/zeenia",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
@@ -90,7 +90,7 @@
             "title": "",
             "heading_tag": "h0",
             "button_text": "",
-            "button_link": "shopify://collections/elysian-summer",
+            "button_link": "shopify://collections/zeenia",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
@@ -141,11 +141,11 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "elysian-summer",
+            "collection": "zeenia",
             "image": "shopify://shop_images/collection_277c85e0-c383-4f95-be9c-98b8c6b33ef8.png",
             "subheading": "",
             "title": "2pc Embroidered Collection",
-            "url": "shopify://collections/elysian-summer",
+            "url": "shopify://collections/zeenia",
             "heading_tag": "h3",
             "text_position": "place-self-start-center text-center",
             "text_color": "#ffffff",
@@ -217,7 +217,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "elysian-summer",
+        "collection": "zeenia",
         "products": [
           "ayzel",
           "zeenya",
