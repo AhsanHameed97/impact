@@ -4,6 +4,33 @@
   border-width: 0;
   border-color: rgb(var(--text-color) / .12);
 }
+@font-face {
+  font-family: 'Gilroy';
+  src: url('{{ "https://cdn.shopify.com/s/files/1/0635/6775/7396/files/Gilroy-Regular.woff?v=1748094308" | asset_url }}') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('{{ "https://cdn.shopify.com/s/files/1/0635/6775/7396/files/Gilroy-Medium.woff?v=1748094308" | asset_url }}') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('{{ "https://cdn.shopify.com/s/files/1/0635/6775/7396/files/Gilroy-Bold.woff?v=1748094308" | asset_url }}') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('{{ "https://cdn.shopify.com/s/files/1/0635/6775/7396/files/Gilroy-Heavy.woff?v=1748094308" | asset_url }}') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
 
 html {
   -webkit-text-size-adjust: 100%;
