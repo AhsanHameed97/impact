@@ -34,6 +34,12 @@
             "show_empty": false
           }
         },
+        "liquid_JaDpDh": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "form[action*=\"/cart/add\"] button[name=\"add\"]"
+          }
+        },
         "payment_terms": {
           "type": "payment_terms",
           "settings": {}
@@ -94,6 +100,7 @@
         "badges",
         "price",
         "rating",
+        "liquid_JaDpDh",
         "payment_terms",
         "separator",
         "variant_picker",
