@@ -42,6 +42,10 @@
           "type": "separator",
           "settings": {}
         },
+        "size_chart_mp_dropdown_button_VGynLn": {
+          "type": "shopify://apps/size-chart/blocks/mp-dropdown-button/305100b1-3599-492a-a54d-54f196ff1f94",
+          "settings": {}
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -96,6 +100,7 @@
         "rating",
         "payment_terms",
         "separator",
+        "size_chart_mp_dropdown_button_VGynLn",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
