@@ -37,8 +37,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/3_8e4aa1a5-58e1-45f9-91d6-3ca72439a691.jpg",
-            "mobile_image": "shopify://shop_images/2_afca3faf-2aa0-41c8-958e-9ec84fd07acc.jpg",
+            "image": "shopify://shop_images/2.png",
+            "mobile_image": "shopify://shop_images/2_a4a94922-99df-497a-9989-6aeecd090142.png",
             "content_max_width": 880,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -59,8 +59,30 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/4_aa786cc3-be5d-45fa-94fc-bec9cf99b117.jpg",
-            "mobile_image": "shopify://shop_images/4_4780a95b-0e97-44fe-8314-5b3a818d79c3.jpg",
+            "image": "shopify://shop_images/3.png",
+            "mobile_image": "shopify://shop_images/3_ce7c7c91-5dcd-40d6-a25a-113bbe90779f.png",
+            "content_max_width": 880,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_R8VBx6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4.png",
+            "mobile_image": "shopify://shop_images/4_292108ce-6f58-4337-976a-08388f98e389.png",
             "content_max_width": 880,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -82,7 +104,8 @@
       "block_order": [
         "image_KAaMaF",
         "slide-1",
-        "slide-2"
+        "slide-2",
+        "image_R8VBx6"
       ],
       "settings": {
         "full_width": true,
