@@ -20,10 +20,18 @@
             "text": "2PC EMBROIDERED COLLECTION IS NOW LIVE",
             "url": ""
           }
+        },
+        "message_TQGFGk": {
+          "type": "message",
+          "settings": {
+            "text": "ENJOY FREE SHIPPING ON ORDERS ABOVE RS. 7,000/-",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_TQGFGk"
       ],
       "settings": {
         "enable_sticky": true,
